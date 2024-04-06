@@ -12,7 +12,7 @@ components:
         hosts:
           title: Hosts
           type: array
-          description: The host list of the Redis service.
+          description: The host list of the Redis services.
           items:
             type: string
           x-walrus-ui:
